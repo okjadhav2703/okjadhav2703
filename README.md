@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Omkar Jadhav</h1>
-<h3 align="center">A passionate frontend developer I am coding enthusiast:)</h3>
+<h3 align="center">A passionate frontend developer I am coding enthusiast :)</h3>
+
 
 - 🔭 I’m currently working on **Moviex(Collage Project)**
 
-- 🌱 I’m currently learning **I’m currently learning Next.js and typeScriptt**
+- 🌱 I’m currently learning **I’m currently learning Next.js and typeScript**
 
 - 👯 I’m looking to collaborate with **React Developer**
 
