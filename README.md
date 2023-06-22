@@ -1,20 +1,18 @@
-<h1 align="center">Hi 👋, I'm Omkar Jadhav</h1>
+<h1 align="center"> </h1>
 <h3 align="center">A passionate frontend developer I am coding enthusiast :)</h3>
 
 
 - 🔭 I’m currently working on **Moviex(Collage Project)**
 
-- 🌱 I’m currently learning **I’m currently learning Next.js and typeScript**
+- 👨‍💻 I’m currently learning **I’m currently learning Next.js and typeScript**
 
 - 👯 I’m looking to collaborate with **React Developer**
 
 - 📝 I regularly write articles on [https://medium.com/@okjadhav2703](https://medium.com/@okjadhav2703)
 
-- 📫 How to reach me **okjadhav2703@gmail.com**
-
 - ⚡ Fun fact **Fun fact is you are viewing my profile in between 100 million profiles! thanks**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🌐Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/okjadhav2703" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="okjadhav2703" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/linkedin.com/in/omkar-jadhav-47643a280" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/omkar-jadhav-47643a280" height="30" width="40" /></a>
