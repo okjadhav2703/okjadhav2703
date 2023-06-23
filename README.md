@@ -1,4 +1,4 @@
-<h1 align="center">👨‍💻Hii.. </h1>
+<h2>👨‍💻Hii.. </h2>
 <h3 align="center">🎗️A passionate frontend developer I am coding enthusiast :)📍</h3>
 
 
