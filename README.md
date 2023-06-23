@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h2 align="center">🎗️A passionate frontend developer I am coding enthusiast :)📍</h2>h2><br>🔭 I’m currently working on Moviex(Collage Project)<br><br>👨‍💻 I’m currently learning Next.js<br><br>👯 I’m looking to collaborate with React Developer<br><br>📝 I weekly write articles on https://medium.com/@okjadhav2703<br><br>⚡ Fun fact is you are viewing my profile in between 100 million profiles! thanks.
+<h2 align="center">🎗️A passionate frontend developer I am coding enthusiast :)📍</h2><br>🔭 I’m currently working on Moviex(Collage Project)<br><br>👨‍💻 I’m currently learning Next.js<br><br>👯 I’m looking to collaborate with React Developer<br><br>📝 I weekly write articles on https://medium.com/@okjadhav2703<br><br>⚡ Fun fact is you are viewing my profile in between 100 million profiles! thanks.
 
 
 ## 🌐 Socials:
