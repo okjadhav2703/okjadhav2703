@@ -11,7 +11,7 @@
 
 - 📝 I weekly write articles on [https://medium.com/@okjadhav2703](https://medium.com/@okjadhav2703)
 
-- ⚡ Fun fact **Fun fact is you are viewing my profile in between 100 million profiles! thanks**
+
 
 <h3 align="left">🤝🏻  Connect with Me:</h3>
 <p align="left">
