@@ -1,10 +1,10 @@
-<h1 align="center"> </h1>
-<h3 align="center">🎗️A passionate frontend developer I am coding enthusiast :)</h3>
+<h1 align="center">👨‍💻Hii.. </h1>
+<h3 align="center">🎗️A passionate frontend developer I am coding enthusiast :)📍</h3>
 
 
 - 🔭 I’m currently working on **Moviex(Collage Project)**
 
-- 👨‍💻 I’m currently learning ** Next.js and typeScript**
+- 👨‍💻 I’m currently learning  Next.js 
 
 - 👯 I’m looking to collaborate with **React Developer**
 
