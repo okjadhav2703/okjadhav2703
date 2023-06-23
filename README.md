@@ -1,5 +1,5 @@
-<h2>👨‍💻Hey there! I'am Omkar. </h2>
-<h2>About Me</h2>
+<h2>Hey there! I'am Omkar. </h2>
+<h2>👨‍💻About Me</h2>
 <h3 align="center">🎗️A passionate frontend developer I am coding enthusiast :)📍</h3>
 
 
